@@ -1,6 +1,6 @@
 class WelcomesController < ApplicationController
   get '/' do
-    @title = "Welcome"
+    @title = 'Welcome'
     erb :main_layout do
       erb :"welcomes/welcome"
     end
