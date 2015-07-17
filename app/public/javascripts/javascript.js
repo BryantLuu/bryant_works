@@ -1,1 +1,1 @@
-var hello = prompt("type in a name")
+var hello = prompt("test if this works")
